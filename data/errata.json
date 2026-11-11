@@ -1,0 +1,9 @@
+{
+  "_note": "items 에 {page, where, wrong, right, date} 를 추가한 뒤 build_site.py 를 다시 실행한다.",
+  "updated": "2026-11-12",
+  "volumes": [
+    {"title": "1권 필기", "edition": "2027년판 1쇄(출간 준비 중)", "items": []},
+    {"title": "2권 실기", "edition": "2027년판 1쇄(출간 준비 중)", "items": []},
+    {"title": "필기 CBT · 실기 시뮬레이터", "edition": "웹앱", "items": []}
+  ]
+}

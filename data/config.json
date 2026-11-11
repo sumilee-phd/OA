@@ -1,0 +1,9 @@
+{
+  "_note": "base_url 은 교재에 인쇄되는 고정 주소다. report_url 은 오류 제보 버튼의 목적지로, 구글 폼을 만들면 그 주소로 바꾼다.",
+  "base_url": "https://sumilee-phd.github.io/OA/",
+  "cbt_url": "https://sumilee-phd.github.io/OA-cbt/",
+  "sim_url": "https://sumilee-phd.github.io/OA-sim/",
+  "zip_name": "사무자동화산업기사_실습파일_45개.zip",
+  "report_url": "https://github.com/sumilee-phd/OA/issues/new?template=errata.yml",
+  "report_label": "GitHub 계정 필요"
+}

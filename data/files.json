@@ -1,0 +1,414 @@
+{
+ "files": [
+  {
+   "folder": "ch10",
+   "name": "ch10_시작.xlsx",
+   "ch": "10장",
+   "desc": "장비 점검 비용 산출의 원자료(B4:G16)만 입력된 작업표",
+   "kb": 10,
+   "sha8": "85a0a744",
+   "sha": "85a0a74404a7e64bbee9a0e10b103c1fb252552b46416a7e4c95d0dcd137849c"
+  },
+  {
+   "folder": "ch10",
+   "name": "ch10_완성.xlsx",
+   "ch": "10장",
+   "desc": "계산 열·집계 행·정렬·혼합 그래프·인쇄 설정을 마친 작업표",
+   "kb": 16,
+   "sha8": "fd99b2ee",
+   "sha": "fd99b2eef5d1ce22a537c665745a9851873162b33005e3b0f92bba50b557708a"
+  },
+  {
+   "folder": "ch10",
+   "name": "ch10_출력견본.pdf",
+   "ch": "10장",
+   "desc": "작업표와 그래프 1매(A4)",
+   "kb": 87,
+   "sha8": "4f0ce4e1",
+   "sha": "4f0ce4e1a7931f224eac710f713aa825fe21ff3ea36014e6bc31e9f59a43bab9"
+  },
+  {
+   "folder": "ch11",
+   "name": "ch11_시작.xlsx",
+   "ch": "11장",
+   "desc": "10장 완성 파일과 같음",
+   "kb": 16,
+   "sha8": "fd99b2ee",
+   "sha": "fd99b2eef5d1ce22a537c665745a9851873162b33005e3b0f92bba50b557708a"
+  },
+  {
+   "folder": "ch11",
+   "name": "ch11_완성.xlsx",
+   "ch": "11장",
+   "desc": "피벗 시트에 조정1·조정2 피벗테이블",
+   "kb": 25,
+   "sha8": "36aa15f1",
+   "sha": "36aa15f136347c5034e668ff34353462eb5a3560a6a840b2c0b16b725b028e95"
+  },
+  {
+   "folder": "ch11",
+   "name": "ch11_출력견본.pdf",
+   "ch": "11장",
+   "desc": "피벗테이블 1매",
+   "kb": 57,
+   "sha8": "594034d0",
+   "sha": "594034d0f108fa4cb1a8c6eb8857074285a1eb86d75b2ec3ead66619665a0e7b"
+  },
+  {
+   "folder": "ch12",
+   "name": "ch12_시작.accdb",
+   "ch": "12장",
+   "desc": "빈 데이터베이스",
+   "kb": 268,
+   "sha8": "0b6833af",
+   "sha": "0b6833af6afcb75b65cee578041d5a7f3af0bf58270e374fe5753758e87ef1f7"
+  },
+  {
+   "folder": "ch12",
+   "name": "ch12_완성.accdb",
+   "ch": "12장",
+   "desc": "구분·점검 테이블, 조회 쿼리, 조회화면 폼",
+   "kb": 456,
+   "sha8": "df4ab27b",
+   "sha": "df4ab27b2061d83a0cd8d1d1604b32df89b4e7a25bb14bd59c341a73f4430853"
+  },
+  {
+   "folder": "ch12",
+   "name": "ch12_출력견본.pdf",
+   "ch": "12장",
+   "desc": "조회화면 1매",
+   "kb": 64,
+   "sha8": "19e2f327",
+   "sha": "19e2f3270914df28fa4bceadfadf5f9c453d48b350615be74b213f054c17d4c2"
+  },
+  {
+   "folder": "ch13",
+   "name": "ch13_시작.accdb",
+   "ch": "13장",
+   "desc": "12장 완성 파일과 같음",
+   "kb": 456,
+   "sha8": "df4ab27b",
+   "sha": "df4ab27b2061d83a0cd8d1d1604b32df89b4e7a25bb14bd59c341a73f4430853"
+  },
+  {
+   "folder": "ch13",
+   "name": "ch13_완성.accdb",
+   "ch": "13장",
+   "desc": "보고서용 쿼리와 그룹 보고서 추가",
+   "kb": 512,
+   "sha8": "3036c0d3",
+   "sha": "3036c0d3fb3ae6320f56e04bd734562a1367475083237985ef7d6cc0620fcdc4"
+  },
+  {
+   "folder": "ch13",
+   "name": "ch13_출력견본.pdf",
+   "ch": "13장",
+   "desc": "보고서 1매",
+   "kb": 61,
+   "sha8": "87cd67ea",
+   "sha": "87cd67eaed1dd7f2fa60b04320269ecb6fddc0b2e0a0d0fecc9e1b7457d56235"
+  },
+  {
+   "folder": "ch14",
+   "name": "ch14_시작.pptx",
+   "ch": "14장",
+   "desc": "4:3 빈 슬라이드 2장",
+   "kb": 34,
+   "sha8": "1611945a",
+   "sha": "1611945a45ff974fbb4307a856b804b55aea4706979ef8ba0ac699100d1425b0"
+  },
+  {
+   "folder": "ch14",
+   "name": "ch14_완성.pptx",
+   "ch": "14장",
+   "desc": "슬라이드 2장 완성, 유인물 머리글 해제",
+   "kb": 53,
+   "sha8": "bd603bc3",
+   "sha": "bd603bc3ced44384188fc09dceb659582f476c37d8c0abb17010f15535731046"
+  },
+  {
+   "folder": "ch14",
+   "name": "ch14_출력견본.pdf",
+   "ch": "14장",
+   "desc": "유인물 2슬라이드 1매",
+   "kb": 279,
+   "sha8": "102b6687",
+   "sha": "102b6687528f8e47cfc365961e534ad42aafc11b734d1bfe017435f10224608f"
+  },
+  {
+   "folder": "ch15",
+   "name": "ch15_시작.xlsx",
+   "ch": "15장",
+   "desc": "장비 점검 일지 10행(시:분 시각)과 설치일·점검일",
+   "kb": 11,
+   "sha8": "4f0a8441",
+   "sha": "4f0a8441568858caa9dbf8c8ce3542a91d3a07cac76ed2e11919c447da2e3592"
+  },
+  {
+   "folder": "ch15",
+   "name": "ch15_완성.xlsx",
+   "ch": "15장",
+   "desc": "시간 계산·배열 조합·사본 차트·순위·참조표·날짜 계산",
+   "kb": 17,
+   "sha8": "97ee5f7e",
+   "sha": "97ee5f7e49929b08b5177ef5cbc8ff633cb5da80c6a61a0c75d0cdb49b60f0d4"
+  },
+  {
+   "folder": "ch16",
+   "name": "mock1_시작.accdb",
+   "ch": "세트 1",
+   "desc": "빈 데이터베이스",
+   "kb": 268,
+   "sha8": "70b03834",
+   "sha": "70b0383404e56a68f113c78c8fc4694cdccd27b461f561dd0f9af29c0d6a0d16"
+  },
+  {
+   "folder": "ch16",
+   "name": "mock1_시작.pptx",
+   "ch": "세트 1",
+   "desc": "4:3 빈 슬라이드 2장",
+   "kb": 34,
+   "sha8": "da52ae8f",
+   "sha": "da52ae8ff025f3bc51c4f2191d2de61b5a3189e7b47cae4a9be1ae4ab8ceefed"
+  },
+  {
+   "folder": "ch16",
+   "name": "mock1_시작.xlsx",
+   "ch": "세트 1",
+   "desc": "교육 수강 기록 원자료",
+   "kb": 10,
+   "sha8": "3d186a26",
+   "sha": "3d186a26459d1911b1ddb24dacb61898f34c718967a532d6b200ea901d3084c7"
+  },
+  {
+   "folder": "ch16",
+   "name": "mock1_완성.accdb",
+   "ch": "세트 1",
+   "desc": "구분·수강 테이블, 조회화면, 보고서",
+   "kb": 452,
+   "sha8": "0916608b",
+   "sha": "0916608bf32a9b0e6a90930c9fb3aecce4caa46d007d940ec2c7774d86649c6e"
+  },
+  {
+   "folder": "ch16",
+   "name": "mock1_완성.pptx",
+   "ch": "세트 1",
+   "desc": "슬라이드 2장",
+   "kb": 51,
+   "sha8": "7c35d9ea",
+   "sha": "7c35d9eac3405f7e6710b0343ceedeb510de5545d6f7be16775be3caebe15d9e"
+  },
+  {
+   "folder": "ch16",
+   "name": "mock1_완성.xlsx",
+   "ch": "세트 1",
+   "desc": "작업표·그래프·피벗 두 상태",
+   "kb": 25,
+   "sha8": "415d48e0",
+   "sha": "415d48e0f9ce4c466d7abcc222878c37f0d7cf1eaa975bd3bd01999f8db95d96"
+  },
+  {
+   "folder": "ch16",
+   "name": "mock2_시작.accdb",
+   "ch": "세트 2",
+   "desc": "빈 데이터베이스",
+   "kb": 268,
+   "sha8": "48690f15",
+   "sha": "48690f1580606578e20d8727901e1b65b0432c96a5cb9b59461b222b36695e0c"
+  },
+  {
+   "folder": "ch16",
+   "name": "mock2_시작.pptx",
+   "ch": "세트 2",
+   "desc": "4:3 빈 슬라이드 2장",
+   "kb": 34,
+   "sha8": "0bf5deca",
+   "sha": "0bf5decab7ca08ee5a09785d432072e88dd78d60078f48f4654d667423f38a62"
+  },
+  {
+   "folder": "ch16",
+   "name": "mock2_시작.xlsx",
+   "ch": "세트 2",
+   "desc": "차량 운행 기록 원자료",
+   "kb": 10,
+   "sha8": "83bcc41d",
+   "sha": "83bcc41dbc7e9dede71738b6ca15cdec951d7bb176cc166256153895af8cec67"
+  },
+  {
+   "folder": "ch16",
+   "name": "mock2_완성.accdb",
+   "ch": "세트 2",
+   "desc": "구분·운행 테이블, 조회화면, 보고서",
+   "kb": 452,
+   "sha8": "8b9978bf",
+   "sha": "8b9978bf2481a6c5e0f8fe3cf234ff3532b3e09a8583faf792da9e1020ec87ff"
+  },
+  {
+   "folder": "ch16",
+   "name": "mock2_완성.pptx",
+   "ch": "세트 2",
+   "desc": "슬라이드 2장",
+   "kb": 50,
+   "sha8": "bfb8b5dd",
+   "sha": "bfb8b5dd0856a915111bafc7fd36a4476edca1c82415f3090e004c482bdd4d11"
+  },
+  {
+   "folder": "ch16",
+   "name": "mock2_완성.xlsx",
+   "ch": "세트 2",
+   "desc": "작업표·그래프·피벗 두 상태",
+   "kb": 24,
+   "sha8": "1bbb378b",
+   "sha": "1bbb378b0f651e32130dba59196703b4da17741097783edb446eafafdf7f4d96"
+  },
+  {
+   "folder": "ch16",
+   "name": "mock3_시작.accdb",
+   "ch": "세트 3",
+   "desc": "빈 데이터베이스",
+   "kb": 268,
+   "sha8": "ce9a5276",
+   "sha": "ce9a5276ae2a34abf97f205a3ee10d7f6a26b1a4b3ef43d20d5659586d3d3ccd"
+  },
+  {
+   "folder": "ch16",
+   "name": "mock3_시작.pptx",
+   "ch": "세트 3",
+   "desc": "4:3 빈 슬라이드 2장",
+   "kb": 34,
+   "sha8": "48f97bc9",
+   "sha": "48f97bc9e3ba62741d0a0cb5a845738d22607f8a4302b948de9cea10aec1ee95"
+  },
+  {
+   "folder": "ch16",
+   "name": "mock3_시작.xlsx",
+   "ch": "세트 3",
+   "desc": "자료 연체 기록 원자료",
+   "kb": 10,
+   "sha8": "75f25c00",
+   "sha": "75f25c00b534bd1a085d2061ff2780db745efbcf066723cb7a36062abc9d0427"
+  },
+  {
+   "folder": "ch16",
+   "name": "mock3_완성.accdb",
+   "ch": "세트 3",
+   "desc": "구분·대출 테이블, 조회화면, 보고서",
+   "kb": 452,
+   "sha8": "f17613f9",
+   "sha": "f17613f9f5b67d14409395f4f7fa4cc004f9acdd3ee453f2aa497d7153d763e6"
+  },
+  {
+   "folder": "ch16",
+   "name": "mock3_완성.pptx",
+   "ch": "세트 3",
+   "desc": "슬라이드 2장",
+   "kb": 51,
+   "sha8": "cda8cd63",
+   "sha": "cda8cd634a40c0916bca7bf58cf8d8d0aae01171e3ef99d856d7ee2dc111dbb4"
+  },
+  {
+   "folder": "ch16",
+   "name": "mock3_완성.xlsx",
+   "ch": "세트 3",
+   "desc": "작업표·그래프·피벗 두 상태",
+   "kb": 24,
+   "sha8": "8331e498",
+   "sha": "8331e4988d70014d9091d1646e985231b233e08ce24365ee033600a98f6ba32c"
+  },
+  {
+   "folder": "ch16",
+   "name": "mock4_시작.accdb",
+   "ch": "세트 4",
+   "desc": "빈 데이터베이스",
+   "kb": 268,
+   "sha8": "d9677fb4",
+   "sha": "d9677fb460cf8c42085a8f763e651cc8ec53a0a55974336acf5717ea90892c5c"
+  },
+  {
+   "folder": "ch16",
+   "name": "mock4_시작.pptx",
+   "ch": "세트 4",
+   "desc": "4:3 빈 슬라이드 2장",
+   "kb": 34,
+   "sha8": "7d6191af",
+   "sha": "7d6191af58faa994df3315f2ef24a1c81121ac145da540ba75937df1533f7513"
+  },
+  {
+   "folder": "ch16",
+   "name": "mock4_시작.xlsx",
+   "ch": "세트 4",
+   "desc": "행사 참가 기록 원자료",
+   "kb": 10,
+   "sha8": "34f84dd0",
+   "sha": "34f84dd0452dd181494de3ba4b6303d3fb51f97bedeff6fb31ce955fd461ef90"
+  },
+  {
+   "folder": "ch16",
+   "name": "mock4_완성.accdb",
+   "ch": "세트 4",
+   "desc": "구분·참가 테이블, 조회화면, 보고서",
+   "kb": 452,
+   "sha8": "3f9c057d",
+   "sha": "3f9c057d432cbcb16caa7afc9e217a31cf38140871a2c7fc9c974a1e31128092"
+  },
+  {
+   "folder": "ch16",
+   "name": "mock4_완성.pptx",
+   "ch": "세트 4",
+   "desc": "슬라이드 2장",
+   "kb": 50,
+   "sha8": "35515c06",
+   "sha": "35515c068d7782ec334509b8db81c9c14d2c7dc97ccb9a8fa9d7c1f6924f0ded"
+  },
+  {
+   "folder": "ch16",
+   "name": "mock4_완성.xlsx",
+   "ch": "세트 4",
+   "desc": "작업표·그래프·피벗 두 상태",
+   "kb": 24,
+   "sha8": "61b27f7d",
+   "sha": "61b27f7d0e7725dfb785ef89e01ac1cd89b218e8795198995f62fa50eb2373b8"
+  },
+  {
+   "folder": "ch16",
+   "name": "mock1_출력견본.pdf",
+   "ch": "세트 1",
+   "desc": "5매 견본(작업표·피벗·조회화면·보고서·유인물)",
+   "kb": 604,
+   "sha8": "5a65729f",
+   "sha": "5a65729f36ae1aaafa841ea22bb4da06d63cfe432017fe0811c8bad17e9f9139"
+  },
+  {
+   "folder": "ch16",
+   "name": "mock2_출력견본.pdf",
+   "ch": "세트 2",
+   "desc": "5매 견본",
+   "kb": 497,
+   "sha8": "e1c88b00",
+   "sha": "e1c88b003beaeb354978ed1dc7e0b35c0b20d9df1cc697ee28962b94899bb647"
+  },
+  {
+   "folder": "ch16",
+   "name": "mock3_출력견본.pdf",
+   "ch": "세트 3",
+   "desc": "5매 견본",
+   "kb": 496,
+   "sha8": "dfd5b8ae",
+   "sha": "dfd5b8ae5c1389cbdb1e80a00c20f17f8aed8c8ef23a5fe17e4141ce35e0657f"
+  },
+  {
+   "folder": "ch16",
+   "name": "mock4_출력견본.pdf",
+   "ch": "세트 4",
+   "desc": "5매 견본",
+   "kb": 606,
+   "sha8": "da78d90c",
+   "sha": "da78d90c877daccb17c40226403f8dc40f813f5d3462283725fb2940b6b85c0a"
+  }
+ ],
+ "zip": {
+  "name": "사무자동화산업기사_실습파일_45개.zip",
+  "kb": 3313,
+  "sha8": "e7166591"
+ }
+}

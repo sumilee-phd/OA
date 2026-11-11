@@ -1,0 +1,45 @@
+name: 오류 제보
+description: 교재 본문·실습 파일·필기 CBT·실기 시뮬레이터의 오류를 알려 주십시오
+title: "[오류] "
+labels: ["오류 제보"]
+body:
+  - type: dropdown
+    id: where
+    attributes:
+      label: 대상
+      options:
+        - 1권 필기
+        - 2권 실기
+        - 실습 파일
+        - 필기 CBT
+        - 실기 시뮬레이터
+    validations:
+      required: true
+  - type: input
+    id: position
+    attributes:
+      label: 쪽 번호와 위치
+      description: 절 번호, 표·그림 번호, 문항 번호, 단계 번호
+      placeholder: 예) 2권 85쪽, 15.3절 표 15-12, 3행
+    validations:
+      required: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: 잘못된 내용
+    validations:
+      required: true
+  - type: textarea
+    id: right
+    attributes:
+      label: 바른 내용과 근거
+      description: 실행 결과, Office 버전 등 확인한 근거
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: 확인
+      options:
+        - label: 이름·연락처·수험번호 같은 개인정보를 적지 않았습니다
+          required: true
+        - label: 시험 문항의 원문·보기·데이터를 옮겨 적지 않았습니다
+          required: true
